@@ -2,7 +2,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=d-s-e&no-bg=true&no-frame=true&theme=onedark&title=MultiLanguage,LongTimeUser,PullRequest,Repositories,Commits,Issues)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-You can find my newer personal projects on [Codeberg](https://codeberg.org/d-s-e]).
+You can find my newer personal projects on [Codeberg](https://codeberg.org/d-s-e).
 
 <!--
 **d-s-e/d-s-e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
