@@ -1,6 +1,3 @@
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=d-s-e&no-bg=true&no-frame=true&theme=onedark&title=MultiLanguage,LongTimeUser,PullRequest,Repositories,Commits,Issues)](https://github.com/ryo-ma/github-profile-trophy)
-
 You can find my personal projects on [Codeberg](https://codeberg.org/d-s-e).
 
 <!--
